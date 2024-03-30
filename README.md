@@ -1,5 +1,8 @@
 **Project Title: Analyzing British Airways Customer Reviews using Tableau**
 
+link to tableau public with this project 
+https://public.tableau.com/app/profile/.ukasz.kacwin/viz/BritishAirwaysSummary/Dashboard1
+
 **1. Introduction:**
 The project aims to analyze and visualize customer reviews of British Airways using Tableau. By harnessing the power of data visualization, we seek to gain insights into customer sentiments, identify trends, and highlight areas for improvement in the airline's services.
 
