@@ -1,5 +1,7 @@
 **Project Title: Analyzing British Airways Customer Reviews using Tableau**
 
+![BritishAirways-Boeing777-AlamyF1KW8J](https://github.com/LKacwin/britishairways/assets/161726319/3c9da404-d058-499b-8838-2edcfe097627)
+
 link to tableau public with this project 
 https://public.tableau.com/app/profile/.ukasz.kacwin/viz/BritishAirwaysSummary/Dashboard1
 
@@ -34,6 +36,8 @@ Incorporate filters and parameters for users to explore specific aspects of the 
 Analyze visualization outputs to interpret trends and patterns in customer sentiments.
 Identify strengths and weaknesses of British Airways' services based on feedback.
 Provide actionable insights and recommendations for improvements in areas such as customer service, in-flight amenities, and booking processes.
+![Summary British Airwayspng](https://github.com/LKacwin/britishairways/assets/161726319/65add2cb-658b-4582-9b34-c79b4098a8c7)
+![British Airways Filtered](https://github.com/LKacwin/britishairways/assets/161726319/81cc0fb5-3dcd-41c7-8203-ab9b7c04117c)
 
 **7. Conclusion:**
 The project will offer valuable insights into customer perceptions of British Airways, facilitating data-driven decision-making to enhance overall customer satisfaction and loyalty. Through the utilization of Tableau for visualization, stakeholders will gain a deeper understanding of customer sentiments and preferences, ultimately driving improvements in service delivery and business performance.
